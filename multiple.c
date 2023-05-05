@@ -11,6 +11,6 @@ int main()
     scanf("%d", &num);
     printf("%d \n", num);
   } while (num % 7 != 0);
-
+  printf("thanks");
   return 0;
 }
