@@ -4,7 +4,7 @@ void namaste();
 void bonjour();
 int main()
 {
-    printf("enter 'i' for indian and 'f' for french");
+    printf("enter 'i' for indian and 'f' for french :");
     char ch;
     scanf("%c", &ch);
     if (ch == 'i')
