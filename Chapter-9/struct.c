@@ -1,4 +1,5 @@
 // write a program to store the data of three students
+// usage of typedef
 #include <stdio.h>
 #include <string.h>
 
